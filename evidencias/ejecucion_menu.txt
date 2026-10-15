@@ -1,0 +1,152 @@
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Árbol inicial creado correctamente (9 nodos).
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+--- Estructura del árbol ---
+UNIVERSIDAD
+|-- (I) FISEI
+|   |-- (I) SOFTWARE
+|   |   |-- (I) NIVEL1
+|   |   `-- (D) NIVEL3
+|   `-- (D) TI
+`-- (D) DIDE
+    |-- (I) INVESTIGACIÓN
+    `-- (D) VINCULACIÓN
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Número de nodos: 9
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Número de hojas: 5
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Altura del árbol (en aristas): 3
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Ingrese el nombre del nodo: Grado de FISEI: 2
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Ingrese el nombre del nodo: Grado de SOFTWARE: 2
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Ingrese el nombre del nodo: TI SÍ es una hoja.
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Ingrese el nombre del nodo: FISEI NO es una hoja (tiene 2 hijo(s)).
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Ingrese el nombre del nodo: El nodo "XYZ" no existe en el árbol.
+
+=========== ORGANIZACIÓN DE DEPARTAMENTOS ===========
+1. Crear el árbol inicial
+2. Visualizar el árbol
+3. Consultar el número de nodos
+4. Consultar el número de hojas
+5. Consultar la altura
+6. Consultar el grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+9. (Adicional) Ejecutar casos de prueba
+Seleccione una opción: 
+Saliendo del programa...
