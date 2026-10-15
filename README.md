@@ -77,13 +77,6 @@ También se puede abrir la carpeta `src` en VS Code y ejecutar `app/Main.java`.
 | 8 | Salir |
 | 9 | *(Adicional)* Ejecutar los casos de prueba obligatorios |
 
-## 5. Resultados
-
-### Ejecución del menú
-![Ejecución del menú](evidencias/captura_ejecucion_menu.png)
-
-### Casos de prueba obligatorios
-![Casos de prueba](evidencias/captura_casos_prueba.png)
 
 | Caso | Resultado esperado | Resultado obtenido |
 |------|--------------------|--------------------|
